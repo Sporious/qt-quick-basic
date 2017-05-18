@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyButton.qml</file>
+        <file>main.js</file>
+        <file>CustomTextInput.qml</file>
+    </qresource>
+</RCC>

@@ -27,10 +27,8 @@ Item {
                 if (a != "") parent.color = a
                 if (b != "") parent.x = b
                 if (c != "") parent.y = c
-
             }
         }
 
     }
-
 }

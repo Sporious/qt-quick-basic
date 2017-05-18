@@ -1,6 +1,6 @@
 import QtQuick 2.6
 import QtQuick.Window 2.2
-//import QtQuick.Controls 2.0
+
 //My JS library bound with the name JS
 import "main.js" as JS
 
@@ -53,7 +53,6 @@ Window {
     //This custom element is defined in CustomTextInput.qml
     CustomTextInput {
         id: "colourPicker"
-        //textid: "colourPicker"
         var_minusx: 5
         var_y: 50
         header: "Colour"
